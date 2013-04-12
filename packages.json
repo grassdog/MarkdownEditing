@@ -3,15 +3,15 @@
     "packages": [
         {
             "name": "MarkdownEditing",
-            "description": "The beginnings of a Markdown editing bundle for Sublime Text 2",
-            "author": "Brett Terpstra (@ttscoff)",
-            "homepage": "https://github.com/ttscoff/MarkdownEditing",
+            "description": "The beginnings of a Markdown editing bundle for Sublime Text 2 (Forked)",
+            "author": "@grassdog by way of Brett Terpstra (@ttscoff)",
+            "homepage": "https://github.com/grassdog/MarkdownEditing",
             "last_modified": "2013-03-15 17:13:00",
             "platforms": {
                 "*": [
                     {
                         "version": "1.2.2",
-                        "url": "https://nodeload.github.com/ttscoff/MarkdownEditing/zipball/master"
+                        "url": "https://nodeload.github.com/grassdog/MarkdownEditing/zipball/master"
                     }
                 ]
             }
